@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is first line
+=======
+modyifying the first line in hotfix branch
+>>>>>>> hotfix_branch
