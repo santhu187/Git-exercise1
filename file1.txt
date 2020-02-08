@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-this is first line
+this is second line
 =======
 modyifying the first line in hotfix branch
 >>>>>>> hotfix_branch
